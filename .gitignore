@@ -1,0 +1,7 @@
+application/vendor/
+application/.env
+application/tests/_output
+application/tests/_support/_generated
+application/storage
+.idea
+.idea/workspace.xml
