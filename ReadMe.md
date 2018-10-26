@@ -1,6 +1,7 @@
 ## E-commerce website
 
 ### Forked off [laravel 5 boilerplate project](https://github.com/rappasoft/laravel-5-boilerplate)
+### Developed in [Laradock Docker Environment](https://github.com/laradock/laradock)
 
 ## Deployment Guide
 
